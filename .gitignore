@@ -5,3 +5,4 @@ model-deteksi-cacat-roboflow-final/
 __pycache__/
 *.pyc
 .env
+.vscode
