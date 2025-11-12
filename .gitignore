@@ -1,0 +1,7 @@
+# Abaikan folder model
+model-deteksi-cacat-roboflow-final/
+
+# File umum Python
+__pycache__/
+*.pyc
+.env
